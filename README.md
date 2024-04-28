@@ -3,7 +3,7 @@ Articles application
 
 I used T-SQL as Database engine
 
-In order to run the applciation you must create a database with name ArticlesDb.
+In order to run the application you must create a database with name ArticlesDb.
 After you create the database please run the following script to create the Article table required:
 
 USE [ArticlesDb]
